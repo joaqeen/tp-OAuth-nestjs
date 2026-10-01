@@ -19,7 +19,7 @@ API backend con **NestJS** que resuelve el registro y login de usuarios mediante
 ## Instalación
 
 ```bash
-git clone <https://github.com/joaqeen/tp-OAuth-nestjs>
+git clone <https://github.com/joaqeen/tp-OAuth-nestjs.git>
 cd nestjs-google-oauth
 npm install
 ```
